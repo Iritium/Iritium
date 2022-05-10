@@ -6,7 +6,7 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 ## 👯 Communities
 - Owner of Iritium a OSINT based web application
-- Co-organizer at [Astral](https://discord.gg/database) (A database search engine project)
+- Co-organizer at [Astral](https://database.report) (A database search engine project)
 
 ## ⚡ Technologies
 Talk to me about
@@ -17,5 +17,5 @@ Talk to me about
 
 ## 📫 Contact Me
 - Twitter - [@Iritium](https://twitter.com/Iritium)
-- Email - [iritium@zeroday.lol](mailto:Iritium@zeroday.lol)
+- Email - [iritium@zeroday.lol](mailto:admin@database.report)
 ---
