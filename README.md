@@ -16,6 +16,6 @@ Talk to me about
 - Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
 
 ## 📫 Contact Me
-- Twitter - [@Iritium](https://twitter.com/Iritium)
-- Email - [iritium@zeroday.lol](mailto:admin@database.report)
+- Twitter - [@IritiumDev](https://twitter.com/IritiumDev)
+- Email - [admin@database.report](mailto:admin@database.report)
 ---
